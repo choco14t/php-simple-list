@@ -2,8 +2,6 @@
 
 namespace Choco14t\SimpleList\Resolvers;
 
-use InvalidArgumentException;
-
 class TypeResolver
 {
     /**
