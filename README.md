@@ -7,10 +7,10 @@ A typed safe simple list for PHP.
 ```php
 <?php
 
-use Choco14t\SimpleCollection\ImmutableList;
-use Choco14t\SimpleCollection\Resolvers\ClassName;
-use Choco14t\SimpleCollection\Resolvers\TypeResolver;
-use Choco14t\SimpleCollection\SimpleList;
+use Choco14t\SimpleList\ImmutableList;
+use Choco14t\SimpleList\Resolvers\ClassName;
+use Choco14t\SimpleList\Resolvers\TypeResolver;
+use Choco14t\SimpleList\SimpleList;
 
 class Element {}
 

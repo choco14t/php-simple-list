@@ -1,10 +1,10 @@
 <?php
 
-namespace Choco14t\SimpleCollection;
+namespace Choco14t\SimpleList;
 
 use ArrayIterator;
-use Choco14t\SimpleCollection\Contracts\Enumerable;
-use Choco14t\SimpleCollection\Resolvers\TypeResolver;
+use Choco14t\SimpleList\Contracts\Enumerable;
+use Choco14t\SimpleList\Resolvers\TypeResolver;
 use InvalidArgumentException;
 use OutOfBoundsException;
 

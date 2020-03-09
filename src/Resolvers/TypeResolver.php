@@ -1,6 +1,6 @@
 <?php
 
-namespace Choco14t\SimpleCollection\Resolvers;
+namespace Choco14t\SimpleList\Resolvers;
 
 use InvalidArgumentException;
 

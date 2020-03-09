@@ -1,6 +1,6 @@
 <?php
 
-namespace Choco14t\SimpleCollection\Contracts;
+namespace Choco14t\SimpleList\Contracts;
 
 interface Arrayable
 {

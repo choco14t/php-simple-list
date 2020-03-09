@@ -2,9 +2,9 @@
 
 namespace Tests;
 
-use Choco14t\SimpleCollection\ImmutableList;
-use Choco14t\SimpleCollection\Resolvers\ClassName;
-use Choco14t\SimpleCollection\Resolvers\TypeResolver;
+use Choco14t\SimpleList\ImmutableList;
+use Choco14t\SimpleList\Resolvers\ClassName;
+use Choco14t\SimpleList\Resolvers\TypeResolver;
 use InvalidArgumentException;
 use PHPUnit\Framework\TestCase;
 use Tests\Fixtures\DummyItem;

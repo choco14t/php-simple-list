@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Choco14t\\SimpleCollection\\": "src/"
+            "Choco14t\\SimpleList\\": "src/"
         }
     },
     "autoload-dev": {
