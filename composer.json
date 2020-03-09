@@ -10,8 +10,7 @@
         }
     ],
     "require": {
-        "ext-json": "*",
-        "myclabs/deep-copy": "^1.9"
+        "ext-json": "*"
     },
     "autoload": {
         "psr-4": {
